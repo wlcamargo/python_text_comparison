@@ -34,6 +34,12 @@ O projeto consiste em comparar dois textos e devolver um resultado percentual da
   </a>
 </p>
 
+## Texto_fonte vs texto_a_comparar
+Texto_fonte --> Trata-se do texto fonte para comparação.
+
+Texto a comparar --> É o texto que desejo analisar qual o percentual de semalhança com o texto fonte.
+
+
 ## ⚠️ Warnings <a name="warnings"></a>
 
 - A planilha não pode estar aberta na execução do script.
