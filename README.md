@@ -13,11 +13,12 @@
 
 - [About](#about)
 - [Warnings](#warnings)
-- [Future Scope](#future-scope)
 - [Usage](#usage)
-- [Built With](#built-with)
 - [Authors](#authors)
+- [Built With](#built-with)
+- [Future Scope](#future-scope)
 - [References](#references)
+
 
 ## 🧐 About <a name="about"></a>
 
@@ -47,12 +48,6 @@ Texto a comparar --> É o texto que desejo analisar qual o percentual de semalha
 
 - A planilha não pode estar aberta na execução do script.
 
-## ⏳ Future Scope <a name="future-scope"></a>
-
-- Criar objeto e melhorar script
-- Implementar lógica em banco de dados
-- Criar histórico de pesquisas
-
 ## 👨🏽‍🏫 Usage <a name="usage"></a>
 - Abrir planilha
 - Alterar textos a serem comparados
@@ -60,13 +55,19 @@ Texto a comparar --> É o texto que desejo analisar qual o percentual de semalha
 - Executar script Python
 - Abrir planilha criada e analisar o resultado
 
+## ✍️ Authors <a name="authors"></a>
+
+[@wlcamargo](https://github.com/wlcamargo) - Desenvolvedor
+
 ## ⛏️ Built With <a name="built-with"></a>
 
 - Python
 
-## ✍️ Authors <a name="authors"></a>
+## ⏳ Future Scope <a name="future-scope"></a>
 
-[@wlcamargo](https://github.com/wlcamargo) - Desenvolvedor
+- Criar objeto e melhorar script
+- Implementar lógica em banco de dados
+- Criar histórico de pesquisas
 
 ## 📚 References <a name="references"></a>
 
