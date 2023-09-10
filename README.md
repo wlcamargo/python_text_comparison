@@ -30,7 +30,8 @@ O projeto consiste em comparar dois textos e devolver um resultado percentual da
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/wlcamargo/python_text_comparison/blob/main/images/planilha_comparacao_resultados.PNG" alt="Planilha"></a>
+    <img src="https://github.com/wlcamargo/python_text_comparison/blob/main/images/planilha_comparacao_resultados.PNG" alt="Planilha">
+  </a>
 </p>
 
 ## ⚠️ Warnings <a name="warnings"></a>
