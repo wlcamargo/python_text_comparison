@@ -57,7 +57,7 @@ Texto a comparar --> É o texto que desejo analisar qual o percentual de semalha
 
 ## ✍️ Authors <a name="authors"></a>
 
-[@wlcamargo](https://github.com/wlcamargo) - Desenvolvedor
+[@wlcamargo](https://www.linkedin.com/in/wallace-camargo-35b615171/) - Desenvolvedor
 
 ## ⛏️ Built With <a name="built-with"></a>
 
