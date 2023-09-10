@@ -34,6 +34,9 @@ O projeto consiste em comparar dois textos e devolver um resultado percentual da
   </a>
 </p>
 
+## Percentual_semelhanca
+Representa o quanto em percentual a coluna "texto_a_comparar" contém na coluna "texto_fonte"  
+
 ## Texto_fonte vs texto_a_comparar
 Texto_fonte --> Trata-se do texto fonte para comparação.
 
