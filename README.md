@@ -1,9 +1,6 @@
-
 <h3 align="center">Python Text Comparison</h3>
 
 <div align="center">
-
-
 </div>
 
 ---
@@ -14,34 +11,38 @@
 
 ## 📝 Index
 
-- [About](#About)
-- [Warnings](#limitations)
-- [Future Scope](#future_scope)
+- [About](#about)
+- [Warnings](#warnings)
+- [Future Scope](#future-scope)
 - [Usage](#usage)
-- [Built With](#tech_stack)
+- [Built With](#built-with)
 - [Authors](#authors)
-- [references](#references)
+- [References](#references)
 
-## 🧐 About <a name = "About"></a>
+## 🧐 About <a name="about"></a>
 
 O projeto consiste em comparar dois textos e devolver um resultado percentual da igualdade entre os textos.
 
-## 🚀 Features <a name = "Features"></a>
+## 🚀 Features <a name="features"></a>
 - Criar planilha nova chamada "planilha_comparacao_resultados.xlsx"
 
 - Na planilha criada, será criada uma nova coluna chamada "percentual_semelhanca" com o resultado final da comparação.
 
-## ⚠️ Warnings <a name = "limitations"></a>
+<p align="center">
+  <a href="" rel="noopener">
+    <img src="https://github.com/wlcamargo/python_text_comparison/blob/main/images/planilha_comparacao_resultados.PNG" alt="Planilha">
+  </a>
+</p>
+
+## ⚠️ Warnings <a name="warnings"></a>
 
 - A planilha não pode estar aberta na execução do script.
 
-
-## ⏳ Future Scope <a name = "future_scope"></a>
+## ⏳ Future Scope <a name="future-scope"></a>
 
 - Criar objeto e melhorar script
 - Implementar lógica em banco de dados
 - Criar histórico de pesquisas
-
 
 ## 👨🏽‍🏫 Usage <a name="usage"></a>
 - Abrir planilha
@@ -50,17 +51,14 @@ O projeto consiste em comparar dois textos e devolver um resultado percentual da
 - Executar script Python
 - Abrir planilha criada e analisar o resultado
 
-
-## ⛏️ Built With <a name = "tech_stack"></a>
+## ⛏️ Built With <a name="built-with"></a>
 
 - Python
 
-
-## ✍️ Authors <a name = "authors"></a>
+## ✍️ Authors <a name="authors"></a>
 
 [@wlcamargo](https://github.com/wlcamargo) - Desenvolvedor
 
-## 📚 References <a name = "References"></a>
+## 📚 References <a name="references"></a>
 
 [Stack_tecnologias](https://www.youtube.com/@Stack_tecnologias) - Canal Youtube
-
